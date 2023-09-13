@@ -41,7 +41,7 @@ class MainApp extends StatelessWidget {
                     Text(
                       'Kingsley',
                       style: TextStyle(
-                        color: Colors.red,
+                        color: Colors.blue,
                         fontSize: 27,
                         fontWeight: FontWeight.bold,
                       ),
@@ -49,7 +49,7 @@ class MainApp extends StatelessWidget {
                     Text(
                       'Jessica',
                       style: TextStyle(
-                        color: Colors.red,
+                        color: Colors.green,
                         fontSize: 27,
                         fontWeight: FontWeight.bold,
                       ),
@@ -70,7 +70,7 @@ class MainApp extends StatelessWidget {
                     Text(
                       'Kingsley',
                       style: TextStyle(
-                        color: Colors.red,
+                        color: Colors.blue,
                         fontSize: 27,
                         fontWeight: FontWeight.bold,
                       ),
@@ -78,7 +78,7 @@ class MainApp extends StatelessWidget {
                     Text(
                       'Jessica',
                       style: TextStyle(
-                        color: Colors.red,
+                        color: Colors.green,
                         fontSize: 27,
                         fontWeight: FontWeight.bold,
                       ),
@@ -99,7 +99,7 @@ class MainApp extends StatelessWidget {
                     Text(
                       'Kingsley',
                       style: TextStyle(
-                        color: Colors.red,
+                        color: Colors.blue,
                         fontSize: 27,
                         fontWeight: FontWeight.bold,
                       ),
@@ -107,7 +107,7 @@ class MainApp extends StatelessWidget {
                     Text(
                       'Jessica',
                       style: TextStyle(
-                        color: Colors.red,
+                        color: Colors.green,
                         fontSize: 27,
                         fontWeight: FontWeight.bold,
                       ),
